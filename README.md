@@ -1,8 +1,6 @@
 # SpringRestFootballTeams
 Technical Test for SIS
 
-In the war file the unit test has been move to the src/main/java folder.
-
 Import the war file into eclipse.
 Deploy the project to the tomcat server.
 The unit tests have been moved to the src/main/java folder and will test the following methods in the controller
